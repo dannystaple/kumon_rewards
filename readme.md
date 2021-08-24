@@ -11,3 +11,10 @@ With the trophies (3D printed) came movie night choose-the-movie privileges.
 
 A requirements.txt is bundled with this, it requires python 3 otherwise.
 The English and Maths notebooks are Jupyter notebooks. I've been using VSCode to run them.
+
+## Suggested trophies
+
+For English, because we enjoy imaginative fiction, a dragon trophy - https://www.thingiverse.com/make:962578.
+
+For maths, because I'm a fan of the Serpinski triangle and fractaline structures, I chose https://www.thingiverse.com/thing:24714. It's also linked with computer games - so a hit with the kids.
+
