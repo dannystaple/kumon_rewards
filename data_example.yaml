@@ -1,0 +1,16 @@
+week_start: 2021-08-24
+children:
+    Child_1_name: 
+      papers:
+        # Date - the date the paper was taken - recorded for now, but so only a week is counted.
+        # Duration - the time the paper took to complete in minutes
+        # grades - these are what go into the Kumon score card. For maths, these are the number 100 (for 100%), then A through D (or poorer). For English this is the number of mistakes.
+        # Completed in time - did they complete before the cut off.
+        # Corrections completed - did they finish all the corrections - doesn't count if they didn't.
+        # Sequence number - for holidays and long times away from the Kumon centre - children will be given many numbered papers.
+        #  parents/tutors want to encourage them to be done in order. Optional and defaults to None.
+
+        - {"date": "2021-08-24", "duration": 20, "grades": [0, 2, 0, 1, 0], "completed_in_time": True, "corrections_completed": False, "sequence_number": 26}
+    Child_n_name: 
+      papers:
+        - {"date": "2021-08-24", "duration": 18, "grades": [0, 1, 0, 1, 0], "completed_in_time": True, "corrections_completed": True, "sequence_number": 26}
